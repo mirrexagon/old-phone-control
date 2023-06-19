@@ -18,3 +18,6 @@
 - https://en.m.wikipedia.org/wiki/600_series_connector
 - https://goughlui.com/2017/12/22/tech-flashback-telecom-600-series-adapters-extensions/
 - https://oldaustraliantelephones.weebly.com/testing-your-telephone-service.html
+- https://www.cool386.com/cb_exchange/cb_exchange.html
+- https://www.um.es/docencia/barzana/DIVULGACION/TELEFONIA/Funcionamiento_telefono.html
+- https://www.youtube.com/watch?v=hSqoAvyqJNs
