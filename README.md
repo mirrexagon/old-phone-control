@@ -21,3 +21,4 @@
 - https://www.cool386.com/cb_exchange/cb_exchange.html
 - https://www.um.es/docencia/barzana/DIVULGACION/TELEFONIA/Funcionamiento_telefono.html
 - https://www.youtube.com/watch?v=hSqoAvyqJNs
+- Audio separation from line voltage: https://www.ranecommercial.com/legacy/note150.html
